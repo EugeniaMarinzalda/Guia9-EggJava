@@ -4,3 +4,6 @@
 
 
 :rocket: Utilizando Git :rocket:  
+Clase Array
+Clase Date
+Clase Integer
